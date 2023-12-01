@@ -1,5 +1,5 @@
 import { Container, InpuSearchContainer } from './styles';
-import logo from '../../assets/images/logo.svg';
+import logo from '../../assets/images/icons/logo.svg';
 
 export default function Header() {
   return (
