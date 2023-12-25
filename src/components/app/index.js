@@ -3,8 +3,8 @@ import { BrowserRouter } from "react-router-dom";
 import GlobalStyles from "../../assets/styles/global";
 import defaultTheme from "../../assets/styles/themes/deafault";
 
-import Header from "../Header";
-import Routes from "../../Routes";
+import Header from "../header";
+import Routes from "../../routes.js";
 
 import { Container } from "./styles";
 import { useEffect } from "react";
